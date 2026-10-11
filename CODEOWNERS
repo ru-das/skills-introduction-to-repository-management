@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ru-das
+/src/backend/database.py      @ru-das
+/src/backend/routers/auth.py  @ru-das
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ru-das
